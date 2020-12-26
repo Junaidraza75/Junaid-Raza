@@ -181,7 +181,7 @@
     justify-content: center;
 }
 
-.site-main .brand-area .first-row .col-lg-4>.single-brand {
+/* .site-main .brand-area .first-row .col-lg-4>.single-brand {
     border: 1px solid var(--border-color);
     text-align: center;
     padding: 1.8rem 0rem;
@@ -190,18 +190,23 @@
     height: 100px;
     cursor: pointer;
     transition: transform .4s ease;
+} */
+
+/* .site-main .brand-area .first-row .col-lg-4>.single-brand a>img {
+    width: 100%;
+} */
+.abc{
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-left: 50px;
 }
 
-.site-main .brand-area .first-row .col-lg-4>.single-brand a>img {
-    width: 50%;
-}
-
-.site-main .brand-area .first-row .col-lg-4>.single-brand:hover {
+/* .site-main .brand-area .first-row .col-lg-4>.single-brand:hover {
     box-shadow: var(--box-shadow);
     transform: scale(1.1);
-}
+} */
 
-.site-main .brand-area .first-row .col-lg-4>.single-brand:hover>img {
+/* .site-main .brand-area .first-row .col-lg-4>.single-brand:hover>img {
     filter: brightness(0.15);
 }
 
@@ -211,7 +216,7 @@
 
 .site-main .brand-area .experience-area span {
     display: block;
-}
+} */
 
 .site-main .brand-area .experience-area .years-area {
     background: url(../img/client-info-bg.png) no-repeat 45px 20px;
